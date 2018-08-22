@@ -1,0 +1,30 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js && next",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.1.1",
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntpbright/Test-React-Next-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ntpbright/Test-React-Next-init/issues"
+  },
+  "homepage": "https://github.com/ntpbright/Test-React-Next-init#readme",
+  "description": ""
+}
